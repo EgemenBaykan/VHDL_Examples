@@ -41,9 +41,7 @@
 
 <ol>
     <li> Go to Compile > Compile All. This compiles your VHDL codes included in your project.</li>
-    
     If compile is successful, continue with simulation part:
-    
     <li> Go to Simulate > Start Simulation. A new window will pop up.</li>
     <li> Under "work" directory, choose your testbench file and click OK.</li>
     <li> On left panel, under "sim" layout, right click on your unit under test (UUT).</li>
