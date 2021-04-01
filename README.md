@@ -2,7 +2,7 @@
 
 <h3>Why This Repo?</h3>
 
-<p> This repo basically aims to help you with your very first VHDL codes and digital designs. There are also many sources on internet, especially for spesific projects such as VGA drive, 7 segment displays and even for RISC based microcontroller/processor architectures. </p>
+<p> This repo aims to help you with your very first VHDL codes and digital designs. There are also many sources on internet, especially for spesific projects such as VGA drive, 7 segment displays and even for RISC based microcontroller/processor architectures. </p>
 
 <h3> Which Programs Are Used? </h3>
 
