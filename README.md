@@ -24,3 +24,28 @@
 
 <img src="repo_ss.png" alt="RAM simulation" style="width:500px;height:300px;">
 
+<h3> How To Create A New Project On ModelSim? </h3>
+
+<ol>
+    <li> Go to File > New > Project. </li>
+    <li> Enter your project name. </li>
+    <li> Choose your project location path. </li>
+    <li> Click OK and choose "Add Existing Files".</li>
+    <li> Add your design and testbench. </li>
+    <li> Click OK. Your project is created.</li>
+</ol>
+
+<h3> How To Simulate Your Code On ModelSim?</h3>
+
+<p> Simulation process differs from project to project. However, most basic logic is processed in this manual.</p>
+
+<ol>
+    <li> Go to Compile > Compile All. This compiles your VHDL codes included in your project.</li>
+    If compile is successful, continue with simulation part:
+    <li> Go to Simulate > Start Simulation. A new window will pop up.</li>
+    <li> Under "work" directory, choose your testbench file and click OK.</li>
+    <li> On left panel, under "sim" layout, right click on your unit under test (UUT).</li>
+    <li> Click Add Waves. All objects will be displayed on "Wave" layout. </li>
+    <li> On the tab, click "Run". This process runs your simulation in dedicated time near Run button.</li>
+</ol>
+
