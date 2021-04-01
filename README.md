@@ -6,7 +6,7 @@
 
 <h3> Which Programs Are Used? </h3>
 
-<p> As text editor Visual Studio Code and for simulations ModelSim are used in this repo. Please check the links below to see how to download Visual Studio Code and Modelsim. </p>
+<p> As text editor Visual Studio Code and for simulations ModelSim are used in this repo. Please check the links below to see how to download Visual Studio Code and ModelSim. </p>
 
 <ul>
     <li> <a href="https://www.youtube.com/watch?v=1AnXVuSm90c&t=15s" target="_blank">ModelSim Download Tutorial on YouTube</a> </li>
