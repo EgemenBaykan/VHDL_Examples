@@ -44,7 +44,7 @@
     If compile is successful, continue with simulation part:
     <li> Go to Simulate > Start Simulation. A new window will pop up.</li>
     <li> Under "work" directory, choose your testbench file and click OK.</li>
-    <li> On left panel, under "sim" layout, right click on your unit under test (UUT).</li>
+    <li> On left panel, in "sim" layout, right click on your unit under test (UUT).</li>
     <li> Click Add Waves. All objects will be displayed on "Wave" layout. </li>
     <li> On the tab, click "Run". This process runs your simulation in dedicated time near Run button.</li>
 </ol>
