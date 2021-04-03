@@ -14,13 +14,13 @@
     <li> <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio code Download Link</a> </li>
 </ul>
 
-<p> Note #1: If you already have any IDE or programs to run your code, these installations are not important. You can also try these codes on your IDE. </p>
+<p> Note #1: If you already have any IDE or programs to simulate/synthesize your design, these installations are not important. You can also try these codes on your IDE. </p>
 <p> Note #2: Also "Modern VHDL" extension pack is used for writing VHDL code easier. After installation, you also can download and install by searching it in extension packs tab in VSCode. </p>
 <p> Note #3: For MAC users also there are GHDL and GTKWave programs.</p>
 
 <h2> How To?</h2>
 
-<p> Basically, you can open files with ".mpf" extensions on ModelSim and compile the code. Testbenches are named as "_CodeName_tb.vhd". Start simulation on a testbench, add your waves to simulation and run within dedicated time on the tab on top of the program. A simulation of RAM code is shown below: </p>
+<p> Basically, you can open files with ".mpf" extensions on ModelSim and compile the design files. Testbenches are named as "_CodeName_tb.vhd". Start simulation on a testbench, add your waves to simulation and run within dedicated time on the tab on top of the program. A simulation of RAM code is shown below: </p>
 
 <img src="repo_ss.png" alt="RAM simulation" style="width:500px;height:300px;">
 
