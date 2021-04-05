@@ -20,7 +20,7 @@
 
 <h2> How To?</h2>
 
-<p> Basically, you can open files with ".mpf" extensions on ModelSim and compile the design files. Testbenches are named as "_CodeName_tb.vhd". Start simulation on a testbench, add your waves to simulation and run within dedicated time on the tab on top of the program. A simulation of RAM code is shown below: </p>
+<p> Basically, you can open files with ".mpf" extensions on ModelSim and compile the design files. Testbenches are named as "_CodeName_tb.vhd". Start simulation on a testbench, add your waves to simulation and run within dedicated time on the tab on top of the program. A simulation of RAM design is shown below: </p>
 
 <img src="repo_ss.png" alt="RAM simulation" style="width:500px;height:300px;">
 
