@@ -6,13 +6,7 @@
 
 <h3> Which Programs Are Used? </h3>
 
-<p> As text editor Visual Studio Code and for simulations ModelSim are used in this repo. Please check the links below to see how to download Visual Studio Code and ModelSim. </p>
-
-<ul>
-    <li> <a href="https://www.youtube.com/watch?v=1AnXVuSm90c&t=15s" target="_blank">ModelSim Download Tutorial on YouTube</a> </li>
-    <li> <a href="https://www.youtube.com/watch?v=9mpRF6bAY1g" target="_blank">ModelSim Tutorial on YouTube</a> </li>
-    <li> <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio code Download Link</a> </li>
-</ul>
+<p> As text editor Visual Studio Code and for simulations ModelSim are used in this repo.
 
 <p> Note #1: If you already have any IDE or programs to simulate/synthesize your design, these installations are not important. You can also try these codes on your IDE. </p>
 <p> Note #2: Also "Modern VHDL" extension pack is used for writing VHDL code easier. After installation, you also can download and install by searching it in extension packs tab in VSCode. </p>
